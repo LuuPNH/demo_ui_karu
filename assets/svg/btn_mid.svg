@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47" height="47" viewBox="0 0 47 47">
+  <g id="現在値" transform="translate(-164 -496)">
+    <g id="Rectangle_73908" data-name="Rectangle 73908" transform="translate(164 496)" fill="#a8c3c4" stroke="#a8c3c4" stroke-width="1">
+      <rect width="47" height="47" rx="23.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="46" height="46" rx="23" fill="none"/>
+    </g>
+    <g id="Rectangle_73911" data-name="Rectangle 73911" transform="translate(164 498)" fill="#fff" stroke="#a8c3c4" stroke-width="1">
+      <rect width="47" height="45" rx="22.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="46" height="44" rx="22" fill="none"/>
+    </g>
+  </g>
+</svg>
